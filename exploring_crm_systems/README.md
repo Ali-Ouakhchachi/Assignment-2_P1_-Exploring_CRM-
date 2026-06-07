@@ -93,7 +93,7 @@ The smallest useful CRM would include just enough to track customers and sales a
 
 ### Architecture Diagram:
 
-![Architecture Diagram](architecture\crm_architecture.png)
+![Architecture Diagram](architecture/crm_architecture.png)
 
 ## Prompt Engineering Examples
 Some of my favorite prompts:
