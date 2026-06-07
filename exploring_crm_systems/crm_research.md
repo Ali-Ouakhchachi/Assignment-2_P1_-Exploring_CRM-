@@ -1,4 +1,4 @@
-# AI-Based CRM Discovery
+# Part 1: AI-Based CRM Discovery
 
 ## 1. What is CRM?
 CRM stands for "Customer Relationship Management", meaning a strategy, process, and technology that manages all interactions
@@ -35,15 +35,25 @@ For Nonprofits, they can use CRM to manage grant deadlines, track funder relatio
 ## 4. What are the major modules found in a CRM?
 Modern CRMs are built around interconnected modules, each serving a distinct function while sharing the same customer data.
 
-Contacts
-Accounts
-Leads
-Opportunities
-Activities
-Tasks
-Marketing Campaigns
-Support Tickets
-Reports
+- Contacts: individual people with full interaction history
+- Accounts: compaires/organization that parent multiple conatcts
+- Leads: unqualified prospects captured from forms ads, stc
+- Opportunities: active deals in the pipeline with stage, value, close date, and win probability
+- Activities: logged interactions (calls, emails, demos, etc) tied to contacts and accounts
+- Tasks: assigned action items with due dates 
+- Marketing Campaigns: email sequences, ads, and events with ROI tracking tied back to leads and revenue
+- Support Tickets : customer isses routed to agents, linked to purchase history
+- Reports: structure data outputs covering win/loss, pipeline health, and campaign results.
+
 
 
 It was apparent that the AI sourced a website with all the dates and such categorized for CRMS. https://www.membrain.com/blog/a-brief-history-of-the-crm
+
+TODO: ADD REFLECTION PORTIONS
+
+
+List:
+- Finish Reflections
+
+- AI-Assisted CRM Architecture Exploration (ask for help with architecture)
+- AI Reflection and Prompt Engineering
