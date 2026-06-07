@@ -5,12 +5,32 @@ Ali Ouakhchachi
 - StarID: ls7771en
 - StudentID: 16524845
 
-## Executive Summary
+## Executive Summary:
+This report documents an AI-assisted exploration of Customer Relationship 
+Management (CRM) systems completed as part of ICS499 at Metropolitan State 
+University. Using Claude as the primary AI research tool, I investigated CRM 
+concepts, compared commercial and open-source products, explored an open-source 
+CRM demo environment, and analyzed the architecture of a custom PHP/MySQL CRM.
 
 ## AI Tools Used:
 Claude, Google Search AI (Gemini)
 
 ## CRM Research Findings
+
+CRM (Customer Relationship Management) systems help organizations manage 
+interactions with current and potential customers. Key findings from this 
+research include:
+
+- CRM systems originated in the 1980s as simple contact databases and have 
+  evolved into cloud-based platforms with AI-driven analytics
+- Core modules found across most CRMs include Contacts, Leads, Opportunities, 
+  Tasks, and Reports
+- Organizations across retail, healthcare, education, and nonprofits use CRM 
+  to reduce manual work, improve communication, and track customer relationships
+- Salesforce dominates the commercial market while EspoCRM and SuiteCRM are the 
+  most mature open-source alternatives
+
+  See [crm_research.md](./crm_research.md) for the full research breakdown.
 
 # Part 2: AI-Assisted CRM Product Comparison
 
