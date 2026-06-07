@@ -96,7 +96,15 @@ The smallest useful CRM would include just enough to track customers and sales a
 ![Architecture Diagram](architecture\crm_architecture.png)
 
 ## Prompt Engineering Examples
+Some of my favorite prompts:
+- "Act as a software consultant. Explain what CRM systems are, their history, and how they've evolved."
+- "What should I look for when evaluating an open-source CRM like EspoCRM?"
+- "Which open-source CRM appears most mature?"
 
 ## Lessons Learned
+I leanred that with an AI partner, it's easy to get personalized easy to understand answers that gave more interesting insight about topics I was unfamiliar about. Although some of it does sometimes need fact checking whenever some answers feel questionable, the utilization of this technology does feel like a big next step in assisting with research and giving insight. I was very much surprised with how accurate it was about CRMs and explaining the concept and architecture in ways I hadn't considered from CRMs. It gave me insight as to what they actually are and how they are usually operated. Next time, I'd try to give it more indepth prompts so it can be able to give strict answers and not go off track with what I ask. Overall, a successful experience.
 
 ## References
++ https://www.membrain.com/blog/a-brief-history-of-the-crm
++ https://claude.ai/
++ https://www.salesforce.com/news/stories/idc-crm-market-share-ranking-2025/

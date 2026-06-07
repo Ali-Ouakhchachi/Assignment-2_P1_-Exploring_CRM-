@@ -5,6 +5,10 @@ CRM stands for "Customer Relationship Management", meaning a strategy, process, 
 with current and potential customers. It's a buisness philosophy that centeralizes in customer data, tracks interactions, and supports relationship-building. It's main purpose is to improve customer retention, increase sales, simplify communication, and encourage teamwork and collaboration. In 1987, early tools like ACT! allowed salespeople to store contact info digitally. In the 1990s, tools grew to automate sales pipelines and the term "CRM" was coined. Gartner poularized the concept, and in the 1999, Salesforce.com launched the first major cloud-based CRM.
 In the 2010s, Social CRM emerges and Open APIs enable deep integrations. Now, predictive analytics, AI-assisted lead scoring, and generative AIs are built directly into modern CRMs. There's been a recent shift for unified Customer Data Platforms (CDPs), which is packaged software that collects and unifies customer data into a single customer profile, making it available to marketing and sales tools to make personalized experiences.
 
+### Reflection:
+Claude helped to generate the repsonse used for my research. I found it to be very accurate, but I could tell it was directly taking from some sites, such as this website with all the dates and such categorized for CRMS. https://www.membrain.com/blog/a-brief-history-of-the-crm
+Using the Google Search AI (Gemini) and searching through sites a lot of the information seemed to be accurate.
+
 
 ## 2. Why do organizations use CRM systems?
 CRM systems are used to serve multiple departments simultaneously, creating a unified view of customer relationship.
@@ -19,6 +23,9 @@ CRM systems are used to serve multiple departments simultaneously, creating a un
 + **Reporting & Analytics:** 
     Dashboards surface win rates, churn risk, average deal size, and customer lifetime value. Managers replace gut feeling with evidence.
 
+### Reflection:
+Claude helped to generate this response. It gave insight to how different organizations utilized CRMs and their purpose in their industries. A lot of the reponses given were definitely similar, but it detailed more on the correlation and usage of each and why they're meant to be distinct.
+
 ## 3. What business problems do CRM systems solve?
 Some examples include...
 
@@ -31,6 +38,9 @@ In Education, an alumni office uses CRM to segment graduates by graduation year 
 In Manufacturing, an industrial equipment company can use CRM to track multi-year sales cycles across multiple decision-makers at each account, ensuring no opportunity stalls unnoticed.
 
 For Nonprofits, they can use CRM to manage grant deadlines, track funder relationships, and report on impact metrics required by each donor.
+
+### Reflection:
+Claude helped to generate this response. It provided different examples for each buisness and explained what problems they solve and why companies want to fix those challenges.
 
 ## 4. What are the major modules found in a CRM?
 Modern CRMs are built around interconnected modules, each serving a distinct function while sharing the same customer data.
@@ -45,15 +55,6 @@ Modern CRMs are built around interconnected modules, each serving a distinct fun
 - Support Tickets : customer isses routed to agents, linked to purchase history
 - Reports: structure data outputs covering win/loss, pipeline health, and campaign results.
 
+### Reflection:
+Claude helped to generate this response. Giving definitions to each module the result was trustworthy as it correlated back to the previous topics that were previously researched and added on to what was already demonstated about CRMs in the previous prompts.
 
-
-It was apparent that the AI sourced a website with all the dates and such categorized for CRMS. https://www.membrain.com/blog/a-brief-history-of-the-crm
-
-TODO: ADD REFLECTION PORTIONS
-
-
-List:
-- Finish Reflections
-
-- AI-Assisted CRM Architecture Exploration (ask for help with architecture)
-- AI Reflection and Prompt Engineering
